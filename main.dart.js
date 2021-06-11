@@ -58246,7 +58246,7 @@ $0:function(){return this.a.e.$0()},
 $S:0}
 T.nT.prototype={
 L:function(a,b){var s=null,r=K.NV(new P.bx(10,10))
-return M.c3(s,T.qY(H.a([U.acb("assets/images/qq.png",400,s),L.dE("fishycx flutter\u5165\u95e8\u5b66\u4e60",s,s,s,s,s,s)],t.F),C.b0,C.bk),C.p,s,s,new S.dq(C.j,s,s,r,s,s,C.a_),s,s,new V.ap(0,22,0,12),new V.ap(20,20,20,20),s,s,s)}}
+return M.c3(s,T.qY(H.a([U.acb("assets/images/qq.png",400,s),L.dE("\u76ae\u59b9\u513f\uff0c\u6211\u7231\u4f60!!!!!",s,s,s,s,s,s)],t.F),C.b0,C.bk),C.p,s,s,new S.dq(C.j,s,s,r,s,s,C.a_),s,s,new V.ap(0,22,0,12),new V.ap(20,20,20,20),s,s,s)}}
 Y.RU.prototype={}
 B.a23.prototype={}
 R.Fc.prototype={
